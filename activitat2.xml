@@ -1,0 +1,26 @@
+<!--xml per a una llista de videojocs indicant el seu titol i plataforma-->
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat2.xsl"?>
+
+<videojuegos>
+  <videojuego>
+    <titulo>The Legend of Zelda: Breath of the Wild</titulo>
+    <plataforma>Nintendo Switch</plataforma>
+  </videojuego>
+
+  <videojuego>
+    <titulo>Red Dead Redemption 2</titulo>
+    <plataforma>PlayStation 4, Xbox One</plataforma>
+  </videojuego>
+
+  <videojuego>
+    <titulo>Super Mario Bros.</titulo>
+    <plataforma>Nintendo Entertainment System</plataforma>
+  </videojuego>
+
+  <videojuego>
+    <titulo>Minecraft</titulo>
+    <plataforma>Multiple</plataforma>
+  </videojuego>
+  
+</videojuegos>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="activitat3xsl.xsl"?>
+<mejores_juegos>
+  <juego>
+    <titulo>The Legend of Zelda: Ocarina of Time</titulo>
+    <plataforma>Nintendo 64</plataforma>
+    <año>1998</año>
+    <developer>Nintendo</developer>
+    <genero>Action-adventure</genero>
+    <rating>97/100</rating>
+  </juego>
+  <juego>
+    <titulo>Grand Theft Auto V</titulo>
+    <platfaorma>PlayStation 3, Xbox 360, PlayStation 4, Xbox One, Microsoft Windows</plataforma>
+    <año>2013</año>
+    <developer>Rockstar North</developer>
+    <genero>Action-adventure</genero>
+    <rating>96/100</rating>
+  </juego>
+  <juego>
+    <titulo>Soulcalibur</titulo>
+    <plataforma>Arcade, Dreamcast, Xbox 360, PlayStation 3</plataform>
+    <año>1998</año>
+    <developer>Project Soul</developer>
+    <genero>Fighting</genero>
+    <rating>95/100</rating>
+  </juego>
+  <juego>
+    <titulo>Super Mario Galaxy</titulo>
+    <plataforma>Wii</plataforma>
+    <año>2007</año>
+    <developer>Nintendo EAD Tokyo</developer>
+    <genero>Platformer</genero>
+    <rating>97/100</rating>
+  </juego>
+  <juego>
+    <titulo>Half-Life 2</titulo>
+    <plataforma>Microsoft Windows, Xbox, Xbox 360, PlayStation 3</plataform>
+    <año>2004</año>
+    <developer>Valve Corporation</developer>
+    <genero>First-person shooter</genero>
+    <rating>96/100</rating>
+  </juego>
+  <juego>
+    <titulo>Chrono Trigger</titulo>
+    <plataforma>Super Nintendo Entertainment System, PlayStation, Nintendo DS, iOS, Android</plataforma>
+    <año>1995</año>
+    <developer>Square</developer>
+    <genero>Role-playing</genero>
+    <rating>95/100</rating>
+  </juego>
+  <juego>
+    <titulo>The Last of Us</titulo>
+    <plataforma>PlayStation 3, PlayStation 4</plataforma>
+    <año>2013</año>
+    <developer>Naughty Dog</developer>
+    <genero>Action-adventure, Survival horror</genero>
+    <rating>95/100</rating>
+  </juego>
+</mejores_juegos>
